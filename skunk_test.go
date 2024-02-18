@@ -3,7 +3,7 @@ package main
 import "testing"
 
 func TestFoo(t *testing.T) {
-	if foo() != "bar" {
+	if fart() != "Boom!" {
 		t.Error("Test failed")
 	}
 }
