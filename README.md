@@ -5,7 +5,7 @@ Very smelly
 ## Installation
 
 ```bash
-$ brew install hokita/skunk/skunk
+$ brew install hokita/tap/skunk
 ```
 
 ## Usage
