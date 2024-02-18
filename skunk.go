@@ -3,10 +3,10 @@ package main
 import "fmt"
 
 func skunk() error {
-	fmt.Println(foo())
+	fmt.Println(fart())
 	return nil
 }
 
-func foo() string {
-	return "foo"
+func fart() string {
+	return "Boom!"
 }
